@@ -1,0 +1,2 @@
+#!/bin/sh
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 19 -data /tcga_crc_pseudo_gem_based_filtered_quantile_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &

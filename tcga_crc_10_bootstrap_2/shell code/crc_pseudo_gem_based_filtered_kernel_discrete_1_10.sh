@@ -1,0 +1,11 @@
+#!/bin/sh
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 1 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 2 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 3 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 4 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 5 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 6 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 7 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 8 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 9 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &
+java -cp tetrad-gui-6.8.0-SNAPSHOT-launch.jar edu.cmu.tetrad.search.TestIGFCI_TCGA -bs 10 -data /tcga_crc_pseudo_gem_based_filtered_kernel_discrete_11272024 -knowledge /forbid_pairs_nodes2 -startCase 0 -endCase 433 -dir . &

@@ -1,0 +1,527 @@
+Graph Nodes:
+TNK1;TNK2;TNK3;TNK4;TNK5;TNK6;TNK7;TNK8;TNK9;TNK10;TNK11;TNK12;TNK13;TNK14;TNK15;TNK16;TNK17;TNK18;TNK19;TNK20;TNK22;TNK23;TNK26;TNK32;TNK33;TNK41;TNK42;TNK56;TNK57;TNK29;TNK38;TNK50;TNK51;TNK52;TNK66;TNK67;TNK35;TNK44;B1;B2;B3;B4;B5;B6;B7;B8;B9;B10;B11;B12;B14;B15;B16;B17;B18;B19;B20;B21;B22;B23;B26;B32;B41;B42;B56;B57;B29;B30;B38;B39;B51;B35;B63;B44;B81;B84;Epi1;Epi2;Epi3;Epi4;Epi5;Epi6;Epi7;Epi8;Epi9;Epi10;Epi11;Epi12;Epi13;Epi14;Epi15;Epi16;Epi17;Epi18;Epi19;Epi20;Epi21;Epi22;Epi23;Epi24;Epi25;Epi26;Epi32;Epi34;Epi41;Epi42;Epi43;Epi56;Epi57;Epi58;Epi40;Epi50;Epi35;Epi36;Epi49;Epi62;Epi64;Epi74;Epi75;Epi76;Epi44;Epi45;Epi46;Epi72;Epi73;Epi80;Epi81;Epi82;Epi53;Epi55;Epi68;Epi77;Epi78;Epi79;Epi85;Mye1;Mye2;Mye3;Mye4;Mye5;Mye6;Mye7;Mye8;Mye9;Mye10;Mye11;Mye12;Mye13;Mye14;Mye15;Mye16;Mye17;Mye18;Mye19;Mye20;Mye21;Mye22;Mye23;Mye24;Mye25;Mye26;Mye32;Mye33;Mye41;Mye42;Mye43;Mye56;Mye57;Mye58;Mye50;Mye52;Mye35;Mye47;Mye48;Mye62;Mye63;Mye74;Mye59;Mye71;Mye72;Mye73;Mye53;Mye54;Mye68;Mye77;Mye84;Stromal1;Stromal2;Stromal3;Stromal4;Stromal5;Stromal6;Stromal7;Stromal8;Stromal9;Stromal10;Stromal11;Stromal12;Stromal13;Stromal14;Stromal15;Stromal16;Stromal17;Stromal18;Stromal19;Stromal20;Stromal21;Stromal22;Stromal23;Stromal24;Stromal26;Stromal27;Stromal28;Stromal32;Stromal34;Stromal41;Stromal42;Stromal43;Stromal56;Stromal58;Stromal40;Stromal65;Stromal66;Stromal35;Stromal37;Stromal48;Stromal49;Stromal62;Stromal63;Stromal64;Stromal44;Stromal45;Stromal59;Stromal61;Stromal73;Stromal80;Stromal54;Stromal55;Stromal68;Stromal78;Stromal85
+
+Graph Edges:
+1. B10 --> Stromal10 dd nl
+2. B15 --> Stromal64 dd nl
+3. B16 --> Epi10 dd nl
+4. B16 --> Epi3 dd nl
+5. B17 --> B38 dd nl
+6. B17 --> Mye54 dd nl
+7. B18 --> Stromal85 dd nl
+8. B18 --> TNK23 dd nl
+9. B19 --> Stromal32 dd nl
+10. B19 --> TNK22 dd nl
+11. B20 --> Stromal68 dd nl
+12. B21 --> B39 dd nl
+13. B21 --> TNK19 dd nl
+14. B22 --> Mye84 dd nl
+15. B29 --> B63 dd nl
+16. B29 --> Epi14 dd nl
+17. B30 --> Stromal56 dd nl
+18. B32 --> B10 dd nl
+19. B39 --> Epi55 dd nl
+20. B39 --> Epi9 dd nl
+21. B41 --> Stromal21 dd nl
+22. B42 --> B19 dd nl
+23. B42 --> TNK41 dd nl
+24. B51 --> Epi45 dd nl
+25. B6 --> TNK8 dd nl
+26. B63 --> Epi45 dd nl
+27. B63 --> Stromal10 dd nl
+28. B7 --> TNK1 dd nl
+29. B7 --> TNK2 dd nl
+30. B81 --> Epi3 dd nl
+31. B81 --> Stromal14 dd nl
+32. B84 --> Stromal20 dd nl
+33. Epi1 --> Epi24 dd nl
+34. Epi1 --> Epi46 dd nl
+35. Epi1 --> Epi56 dd nl
+36. Epi10 --> Epi19 dd nl
+37. Epi11 --> Stromal48 dd nl
+38. Epi12 --> Epi35 dd nl
+39. Epi12 --> Mye52 dd nl
+40. Epi12 --> Stromal24 dd nl
+41. Epi13 --> Epi36 dd nl
+42. Epi13 --> Epi43 dd nl
+43. Epi14 --> Epi12 dd nl
+44. Epi14 --> Epi85 dd nl
+45. Epi16 --> Epi40 dd nl
+46. Epi16 --> Epi42 dd nl
+47. Epi17 --> B56 dd nl
+48. Epi17 --> Epi40 dd nl
+49. Epi18 --> Epi44 dd nl
+50. Epi18 --> Epi50 dd nl
+51. Epi19 --> B8 dd nl
+52. Epi19 --> Mye41 dd nl
+53. Epi2 --> B21 dd nl
+54. Epi2 --> Stromal5 dd nl
+55. Epi22 --> Epi82 dd nl
+56. Epi23 --> Epi77 dd nl
+57. Epi23 --> Epi9 dd nl
+58. Epi24 --> Epi13 dd nl
+59. Epi24 --> Epi62 dd nl
+60. Epi25 --> Epi22 dd nl
+61. Epi25 --> Epi55 dd nl
+62. Epi25 --> TNK13 dd nl
+63. Epi26 --> B32 dd nl
+64. Epi26 --> Mye20 dd nl
+65. Epi26 --> TNK20 dd nl
+66. Epi3 --> Epi62 dd nl
+67. Epi3 --> Epi64 dd nl
+68. Epi32 --> Mye10 dd nl
+69. Epi32 --> Stromal56 dd nl
+70. Epi35 --> Mye84 dd nl
+71. Epi36 --> Epi76 dd nl
+72. Epi40 --> Epi78 dd nl
+73. Epi40 --> Stromal8 dd nl
+74. Epi41 --> Stromal9 dd nl
+75. Epi42 --> B15 dd nl
+76. Epi42 --> Stromal11 dd nl
+77. Epi43 --> Epi53 dd nl
+78. Epi43 --> Mye57 dd nl
+79. Epi45 --> Epi19 dd nl
+80. Epi45 --> Mye48 dd nl
+81. Epi46 --> Epi73 dd nl
+82. Epi5 --> Epi24 dd nl
+83. Epi5 --> Epi25 dd nl
+84. Epi5 --> Epi7 dd nl
+85. Epi5 --> Mye56 dd nl
+86. Epi50 --> B29 dd nl
+87. Epi53 --> Epi19 dd nl
+88. Epi57 --> B15 dd nl
+89. Epi58 --> Epi15 dd nl
+90. Epi58 --> Epi41 dd nl
+91. Epi6 --> B81 dd nl
+92. Epi6 --> Stromal85 dd nl
+93. Epi62 --> Epi40 dd nl
+94. Epi64 --> Epi42 dd nl
+95. Epi64 --> Epi73 dd nl
+96. Epi68 --> Mye74 dd nl
+97. Epi68 --> Stromal19 dd nl
+98. Epi68 --> Stromal49 dd nl
+99. Epi7 --> Epi82 dd nl
+100. Epi72 --> Epi46 dd nl
+101. Epi72 --> Mye57 dd nl
+102. Epi74 --> Mye59 dd nl
+103. Epi74 --> Stromal1 dd nl
+104. Epi76 --> Epi58 dd nl
+105. Epi76 --> Epi74 dd nl
+106. Epi77 --> B35 dd nl
+107. Epi77 --> Mye43 dd nl
+108. Epi78 --> B32 dd nl
+109. Epi8 --> Epi2 dd nl
+110. Epi80 --> Epi13 dd nl
+111. Epi80 --> Epi72 dd nl
+112. Epi82 --> Epi4 dd nl
+113. Epi82 --> Stromal34 dd nl
+114. Epi9 --> Stromal80 dd nl
+115. Mye10 --> Epi56 dd nl
+116. Mye10 --> Epi74 dd nl
+117. Mye13 --> Mye35 dd nl
+118. Mye13 --> Stromal65 dd nl
+119. Mye14 --> Epi85 dd nl
+120. Mye14 --> Mye35 dd nl
+121. Mye14 --> TNK66 dd nl
+122. Mye15 --> Mye5 dd nl
+123. Mye15 --> TNK3 dd nl
+124. Mye17 --> Stromal54 dd nl
+125. Mye18 --> Stromal66 dd nl
+126. Mye18 --> TNK3 dd nl
+127. Mye19 --> Mye18 dd nl
+128. Mye2 --> B84 dd nl
+129. Mye2 --> Mye10 dd nl
+130. Mye2 --> Mye7 dd nl
+131. Mye2 --> Mye8 dd nl
+132. Mye20 --> Mye32 dd nl
+133. Mye21 --> Epi19 dd nl
+134. Mye21 --> Epi56 dd nl
+135. Mye25 --> Mye77 dd nl
+136. Mye25 --> Stromal15 dd nl
+137. Mye35 --> Epi74 dd nl
+138. Mye35 --> TNK20 dd nl
+139. Mye4 --> Mye16 dd nl
+140. Mye41 --> Mye11 dd nl
+141. Mye42 --> Mye2 dd nl
+142. Mye42 --> Stromal59 dd nl
+143. Mye42 --> Stromal7 dd nl
+144. Mye43 --> Mye58 dd nl
+145. Mye43 --> Stromal48 dd nl
+146. Mye48 --> Mye54 dd nl
+147. Mye5 --> Mye7 dd nl
+148. Mye52 --> Epi53 dd nl
+149. Mye56 --> B22 dd nl
+150. Mye56 --> Mye4 dd nl
+151. Mye56 --> Mye72 dd nl
+152. Mye56 --> Stromal55 dd nl
+153. Mye57 --> Epi17 dd nl
+154. Mye59 --> Stromal37 dd nl
+155. Mye6 --> Mye4 dd nl
+156. Mye7 --> Mye6 dd nl
+157. Mye71 --> Epi23 dd nl
+158. Mye71 --> Epi57 dd nl
+159. Mye71 --> TNK57 dd nl
+160. Mye72 --> Mye41 dd nl
+161. Mye73 --> TNK6 dd nl
+162. Mye74 --> TNK13 dd nl
+163. Mye74 --> TNK42 dd nl
+164. Mye74 --> TNK7 dd nl
+165. Mye77 --> B30 dd nl
+166. Mye8 --> Mye41 dd nl
+167. Mye8 --> TNK20 dd nl
+168. Mye9 --> Epi5 dd nl
+169. Mye9 --> Stromal18 dd nl
+170. Mye9 --> TNK9 dd nl
+171. Stromal10 --> Stromal42 dd nl
+172. Stromal11 --> Mye16 dd nl
+173. Stromal11 --> Stromal8 dd nl
+174. Stromal12 --> Stromal20 dd nl
+175. Stromal12 --> Stromal9 dd nl
+176. Stromal14 --> Epi80 dd nl
+177. Stromal14 --> Mye8 dd nl
+178. Stromal14 --> Stromal3 dd nl
+179. Stromal15 --> Stromal63 dd nl
+180. Stromal17 --> Epi77 dd nl
+181. Stromal17 --> Stromal2 dd nl
+182. Stromal18 --> Stromal4 dd nl
+183. Stromal19 --> Epi11 dd nl
+184. Stromal19 --> Mye20 dd nl
+185. Stromal2 --> Mye11 dd nl
+186. Stromal2 --> Stromal1 dd nl
+187. Stromal20 --> Epi55 dd nl
+188. Stromal21 --> Epi32 dd nl
+189. Stromal21 --> Stromal5 dd nl
+190. Stromal24 --> TNK44 dd nl
+191. Stromal26 --> Stromal15 dd nl
+192. Stromal27 --> Epi80 dd nl
+193. Stromal28 --> Stromal26 dd nl
+194. Stromal28 --> Stromal61 dd nl
+195. Stromal3 --> Stromal2 dd nl
+196. Stromal3 --> Stromal8 dd nl
+197. Stromal32 --> Epi85 dd nl
+198. Stromal34 --> Epi80 dd nl
+199. Stromal35 --> Stromal14 dd nl
+200. Stromal35 --> Stromal6 dd nl
+201. Stromal35 --> Stromal64 dd nl
+202. Stromal37 --> Stromal55 dd nl
+203. Stromal37 --> TNK51 dd nl
+204. Stromal4 --> Stromal12 dd nl
+205. Stromal42 --> Epi76 dd nl
+206. Stromal42 --> Stromal17 dd nl
+207. Stromal42 --> TNK15 dd nl
+208. Stromal44 --> B17 dd nl
+209. Stromal44 --> Mye19 dd nl
+210. Stromal45 --> Stromal62 dd nl
+211. Stromal45 --> Stromal66 dd nl
+212. Stromal45 --> Stromal7 dd nl
+213. Stromal48 --> Epi35 dd nl
+214. Stromal49 --> Stromal27 dd nl
+215. Stromal49 --> Stromal35 dd nl
+216. Stromal5 --> Epi26 dd nl
+217. Stromal5 --> TNK4 dd nl
+218. Stromal54 --> Stromal26 dd nl
+219. Stromal56 --> Mye9 dd nl
+220. Stromal58 --> B17 dd nl
+221. Stromal59 --> B18 dd nl
+222. Stromal59 --> Stromal63 dd nl
+223. Stromal6 --> Mye54 dd nl
+224. Stromal61 --> Mye21 dd nl
+225. Stromal63 --> Epi8 dd nl
+226. Stromal63 --> Stromal18 dd nl
+227. Stromal63 --> Stromal34 dd nl
+228. Stromal64 --> Epi18 dd nl
+229. Stromal65 --> Epi55 dd nl
+230. Stromal66 --> Stromal28 dd nl
+231. Stromal66 --> Stromal32 dd nl
+232. Stromal66 --> Stromal59 dd nl
+233. Stromal68 --> Epi68 dd nl
+234. Stromal68 --> TNK18 dd nl
+235. Stromal7 --> TNK32 dd nl
+236. Stromal8 --> B8 dd nl
+237. Stromal8 --> Stromal37 dd nl
+238. Stromal85 --> Mye71 dd nl
+239. TNK1 --> Stromal44 dd nl
+240. TNK12 --> Mye5 dd nl
+241. TNK13 --> Stromal17 dd nl
+242. TNK13 --> TNK52 dd nl
+243. TNK15 --> TNK44 dd nl
+244. TNK17 --> B41 dd nl
+245. TNK18 --> Mye21 dd nl
+246. TNK19 --> B20 dd nl
+247. TNK19 --> Epi4 dd nl
+248. TNK19 --> Mye56 dd nl
+249. TNK2 --> Mye13 dd nl
+250. TNK2 --> Mye42 dd nl
+251. TNK22 --> Epi8 dd nl
+252. TNK22 --> TNK33 dd nl
+253. TNK23 --> Epi68 dd nl
+254. TNK23 --> Mye71 dd nl
+255. TNK26 --> Stromal21 dd nl
+256. TNK3 --> Stromal21 dd nl
+257. TNK3 --> TNK18 dd nl
+258. TNK32 --> TNK56 dd nl
+259. TNK33 --> TNK17 dd nl
+260. TNK35 --> Mye7 dd nl
+261. TNK35 --> TNK15 dd nl
+262. TNK4 --> B4 dd nl
+263. TNK4 --> Epi1 dd nl
+264. TNK4 --> Epi6 dd nl
+265. TNK4 --> Stromal19 dd nl
+266. TNK41 --> Mye25 dd nl
+267. TNK41 --> Stromal58 dd nl
+268. TNK41 --> TNK35 dd nl
+269. TNK42 --> B16 dd nl
+270. TNK56 --> B30 dd nl
+271. TNK56 --> TNK33 dd nl
+272. TNK57 --> B51 dd nl
+273. TNK57 --> Epi16 dd nl
+274. TNK57 --> Epi62 dd nl
+275. TNK6 --> TNK26 dd nl
+276. TNK6 --> TNK32 dd nl
+277. TNK6 --> TNK8 dd nl
+278. TNK66 --> Epi43 dd nl
+279. TNK7 --> Epi1 dd nl
+280. TNK8 --> Mye13 dd nl
+281. TNK8 --> Mye15 dd nl
+282. TNK8 --> Mye18 dd nl
+283. TNK8 --> Mye25 dd nl
+284. TNK8 --> TNK12 dd nl
+285. TNK9 --> B18 dd nl
+286. B10 --> Mye58 pd nl
+287. B16 --> B63 pd nl
+288. B19 --> B63 pd nl
+289. B21 --> Epi10 pd nl
+290. B21 --> Mye20 pd nl
+291. B21 --> Mye74 pd nl
+292. B29 --> Mye58 pd nl
+293. B30 --> Epi4 pd nl
+294. B41 --> Stromal42 pd nl
+295. B41 --> Stromal56 pd nl
+296. B42 --> B35 pd nl
+297. B42 --> Epi43 pd nl
+298. B7 --> Stromal34 pd nl
+299. B7 --> Stromal35 pd nl
+300. B81 --> Stromal2 pd nl
+301. B81 --> TNK44 pd nl
+302. Epi13 --> Epi17 pd nl
+303. Epi13 --> Epi78 pd nl
+304. Epi17 --> Epi76 pd nl
+305. Epi18 --> Epi41 pd nl
+306. Epi18 --> Epi77 pd nl
+307. Epi2 --> Epi44 pd nl
+308. Epi22 --> Epi78 pd nl
+309. Epi22 --> Stromal48 pd nl
+310. Epi26 --> Epi15 pd nl
+311. Epi32 --> Epi7 pd nl
+312. Epi32 --> Mye32 pd nl
+313. Epi43 --> Epi58 pd nl
+314. Epi50 --> Epi45 pd nl
+315. Epi57 --> Epi50 pd nl
+316. Epi6 --> Epi16 pd nl
+317. Epi68 --> Epi56 pd nl
+318. Epi7 --> Epi41 pd nl
+319. Epi7 --> Epi80 pd nl
+320. Epi78 --> Mye43 pd nl
+321. Epi8 --> Epi10 pd nl
+322. Epi8 --> Epi26 pd nl
+323. Epi8 --> Mye52 pd nl
+324. Mye15 --> B4 pd nl
+325. Mye17 --> B29 pd nl
+326. Mye17 --> B8 pd nl
+327. Mye19 --> Epi7 pd nl
+328. Mye19 --> Mye9 pd nl
+329. Mye35 --> Stromal37 pd nl
+330. Mye42 --> Stromal12 pd nl
+331. Mye77 --> Mye72 pd nl
+332. Mye77 --> Stromal6 pd nl
+333. Stromal11 --> Stromal55 pd nl
+334. Stromal15 --> Stromal49 pd nl
+335. Stromal18 --> Stromal20 pd nl
+336. Stromal21 --> Epi4 pd nl
+337. Stromal26 --> Epi73 pd nl
+338. Stromal26 --> Stromal3 pd nl
+339. Stromal26 --> Stromal9 pd nl
+340. Stromal27 --> Epi40 pd nl
+341. Stromal28 --> Stromal27 pd nl
+342. Stromal28 --> Stromal6 pd nl
+343. Stromal34 --> Epi35 pd nl
+344. Stromal44 --> Stromal27 pd nl
+345. Stromal45 --> Epi1 pd nl
+346. Stromal5 --> B29 pd nl
+347. Stromal5 --> Epi3 pd nl
+348. Stromal54 --> Epi6 pd nl
+349. Stromal54 --> Stromal11 pd nl
+350. Stromal64 --> Stromal24 pd nl
+351. Stromal66 --> B20 pd nl
+352. Stromal7 --> Epi5 pd nl
+353. Stromal7 --> Stromal10 pd nl
+354. Stromal7 --> Stromal20 pd nl
+355. Stromal85 --> Epi9 pd nl
+356. TNK1 --> B4 pd nl
+357. TNK1 --> Epi42 pd nl
+358. TNK17 --> Epi23 pd nl
+359. TNK19 --> Mye84 pd nl
+360. TNK2 --> Mye4 pd nl
+361. TNK2 --> TNK9 pd nl
+362. TNK22 --> B16 pd nl
+363. TNK22 --> Epi36 pd nl
+364. TNK3 --> B18 pd nl
+365. TNK32 --> Stromal18 pd nl
+366. TNK33 --> Epi50 pd nl
+367. TNK33 --> Mye9 pd nl
+368. TNK4 --> Stromal80 pd nl
+369. TNK42 --> Mye43 pd nl
+370. TNK56 --> TNK52 pd nl
+371. TNK57 --> Mye84 pd nl
+372. TNK57 --> TNK44 pd nl
+373. TNK6 --> Mye5 pd nl
+374. TNK66 --> Epi15 pd nl
+375. TNK7 --> Epi53 pd nl
+376. TNK8 --> B30 pd nl
+377. TNK8 --> Mye10 pd nl
+378. B1 o-o B3
+379. B1 o-> B6
+380. B1 o-> TNK1
+381. B1 o-> TNK17
+382. B11 o-> B22
+383. B11 o-> Epi36
+384. B11 o-o TNK5
+385. B12 o-o Epi79
+386. B12 o-> TNK26
+387. B12 o-> TNK66
+388. B14 o-> B39
+389. B14 o-> Epi14
+390. B14 o-o TNK10
+391. B2 o-> B30
+392. B2 o-> B7
+393. B2 o-> Mye18
+394. B2 o-o Mye3
+395. B2 o-> TNK17
+396. B23 o-> Mye73
+397. B23 o-> Stromal32
+398. B26 o-> B15
+399. B26 o-o TNK67
+400. B3 o-o Mye53
+401. B3 o-> Stromal15
+402. B3 o-> TNK2
+403. B44 o-> Mye11
+404. B5 o-> B7
+405. B5 o-> Mye17
+406. B57 o-> B18
+407. B57 o-> Mye15
+408. B57 o-> TNK33
+409. B9 o-> Epi36
+410. B9 o-o Mye53
+411. B9 o-> TNK3
+412. Epi20 o-o B14
+413. Epi20 o-> Epi36
+414. Epi20 o-> Epi73
+415. Epi21 o-> Epi11
+416. Epi21 o-> Epi22
+417. Epi21 o-o Epi75
+418. Epi21 o-> Stromal68
+419. Epi21 o-> Stromal85
+420. Epi21 o-> TNK7
+421. Epi34 o-> Epi12
+422. Epi34 o-> Epi18
+423. Epi34 o-o Epi20
+424. Epi49 o-> Epi16
+425. Epi49 o-> Mye35
+426. Epi75 o-> Epi46
+427. Epi75 o-o Mye22
+428. Epi75 o-> Stromal80
+429. Epi75 o-> TNK6
+430. Epi79 o-o Stromal40
+431. Epi79 o-> TNK41
+432. Epi81 o-o Epi79
+433. Epi81 o-> Mye14
+434. Epi81 o-> Mye8
+435. Epi81 o-> TNK1
+436. Mye1 o-o B3
+437. Mye1 o-> B84
+438. Mye12 o-> B38
+439. Mye12 o-o B57
+440. Mye12 o-> Epi2
+441. Mye22 o-o B12
+442. Mye22 o-> TNK51
+443. Mye23 o-> Mye13
+444. Mye23 o-> Mye25
+445. Mye23 o-> TNK42
+446. Mye24 o-> TNK41
+447. Mye3 o-o Mye1
+448. Mye3 o-> Stromal1
+449. Mye33 o-o Mye23
+450. Mye33 o-> Stromal65
+451. Mye33 o-> TNK35
+452. Mye47 o-> Mye15
+453. Mye47 o-> Mye6
+454. Mye50 o-> Mye42
+455. Mye50 o-> Mye52
+456. Mye50 o-> Stromal45
+457. Mye50 o-> TNK22
+458. Mye53 o-o Epi81
+459. Mye53 o-> Mye2
+460. Mye53 o-> Stromal45
+461. Mye53 o-> TNK52
+462. Mye53 o-> TNK6
+463. Mye62 o-o Mye53
+464. Mye62 o-> TNK20
+465. Mye62 o-> TNK56
+466. Mye63 o-o B2
+467. Mye63 o-> Mye14
+468. Mye63 o-> Mye57
+469. Mye68 o-> Epi22
+470. Mye68 o-o TNK67
+471. Stromal13 o-> B17
+472. Stromal13 o-o Mye23
+473. Stromal13 o-> Stromal11
+474. Stromal13 o-> Stromal61
+475. Stromal13 o-> Stromal65
+476. Stromal16 o-> Stromal24
+477. Stromal16 o-> Stromal28
+478. Stromal16 o-> Stromal49
+479. Stromal22 o-> Mye20
+480. Stromal22 o-o Mye22
+481. Stromal22 o-> Stromal64
+482. Stromal40 o-> Mye74
+483. Stromal40 o-> TNK26
+484. Stromal40 o-> TNK51
+485. Stromal41 o-o Stromal16
+486. Stromal41 o-> Stromal63
+487. Stromal43 o-> Epi14
+488. Stromal43 o-o TNK38
+489. Stromal73 o-> Mye48
+490. Stromal73 o-> Mye77
+491. Stromal73 o-o Stromal78
+492. Stromal73 o-> TNK13
+493. Stromal78 o-> B56
+494. Stromal78 o-> B6
+495. Stromal78 o-> Mye32
+496. Stromal78 o-o Stromal40
+497. Stromal78 o-> Stromal58
+498. TNK10 o-> B42
+499. TNK10 o-> Epi44
+500. TNK11 o-> Mye5
+501. TNK11 o-> Stromal55
+502. TNK11 o-o TNK5
+503. TNK14 o-> Stromal62
+504. TNK29 o-> B63
+505. TNK29 o-> Mye41
+506. TNK29 o-> Mye58
+507. TNK29 o-o TNK50
+508. TNK38 o-> B16
+509. TNK38 o-> Epi2
+510. TNK38 o-o Mye1
+511. TNK38 o-> Mye17
+512. TNK38 o-> TNK56
+513. TNK5 o-o B12
+514. TNK5 o-> Epi15
+515. TNK5 o-> Mye14
+516. TNK5 o-> Mye73
+517. TNK50 o-o B12
+518. TNK50 o-> B42
+519. TNK50 o-> TNK13
+520. TNK67 o-> B17
+521. TNK67 o-> B6
+522. TNK67 o-o Stromal73
+
